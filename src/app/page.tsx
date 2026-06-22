@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white px-6">
       <Image
-        src="/profile.jpeg"
+        src="/profile.png"
         alt="Sudipta Swain"
         width={300}
         height={400}
